@@ -1,0 +1,2 @@
+include ':app', ':dex'
+rootProject.name='DexClassLoader'

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773730357177",
+    "firebase_url": "https://dexclaoader.firebaseio.com",
+    "project_id": "dexclaoader",
+    "storage_bucket": "dexclaoader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773730357177:android:a37b82b11cca8e888d7068",
+        "android_client_info": {
+          "package_name": "com.befunkla.dexclassloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773730357177-tnjgklrhb7j0mglh4qj1v2utoqhhutl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Oufc9pe6XjoV6PpNVqZ0-Pc6vwcwjCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773730357177-tnjgklrhb7j0mglh4qj1v2utoqhhutl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
